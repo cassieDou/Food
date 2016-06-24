@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9531" systemVersion="15D21" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="TwoViewController">
+            <connections>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="LdU-nL-7gL">
+                    <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ePT-zo-no3">
+                            <rect key="frame" x="20" y="20" width="560" height="2638"/>
+                            <mutableString key="text">
+
+草原美食
+
+
+一、喝早茶
+
+我在18岁的时候才知道，世界上还有一个地方，把吃早餐叫喝早茶，而且那碗里的食物确实是以茶为主。这个地方就是锡林浩特和以锡林浩特为代表的畜牧业为主的地区。
+
+那茶水是用青砖茶熬制的，再兑上适量牛奶，加少许盐就成了。兑牛奶的叫奶茶，蒙语叫“苏太且”，不加奶的称其为清茶，蒙语叫“哈日且”，但翻译的时候你可不能直译，否则就成了黑茶了，虽然从颜色上看叫黑茶也比较接近，但大家习惯的叫法还是清茶。熬制清茶或奶茶的过程说起来极其简单，但不同的人，不同的手法，熬出来的茶的味道是不同的。最地道最香醇的当属牧民熬制的奶茶了。通常都要把青砖茶砍成小块装到提前用白纱布缝制好的口袋里，待灶上锅里的水沸腾了就把茶口袋放到里面，然后用水瓢或勺子舀出来从高处再浇下去，循环往复，次数越多味道越好，不知是否有科学依据，但我觉得这样做至少可以除掉茶叶中生木的异味儿。茶水的浓度要依据自己的口味而定，一般红中透黑即可，然后加上适量的盐，清茶就熬好了；如果想喝奶茶，再加适量牛奶煮沸就行了。
+
+奶茶或清茶是不能填饱肚皮的，即使把肚皮喝得发胀，那也是虚假“繁荣”，几泡尿出去，胃里便空空如也。事实上，无论过去贫困时期的还是今日，锡林浩特人早茶的餐桌上总会有更丰富的内容。最简单的，清茶或奶茶里会有少许小米，称之为米茶，还有的巧妇会提前把小米用黄油或牛羊油炒一下，然后放在茶里熬熟，喝起来既香醇又解饥饿。另外，桌子上常会有炒米、炸果子、黄油，奶豆腐之类的食物。如今锡林人的早茶实在是太丰富多彩了，除了以上那些内容，还会有肥美的手把肉，新鲜的血肠肉肠以及蒙古包子、沙葱饺子之类。还有一种叫锅茶，就是把牛肉干，奶豆腐炒米黄油放在锅里，兑上熬制好的奶茶，下面点上酒精，就着热气，喝个全身透汗，爽极了。如果时间允许，还会有一两瓶老酒，那就叫喝硬茶了。不过这样的早茶一般人难得享受，只有在节假日才有时间品味。不是钱的问题，主要是缺少时间。
+
+二、吃手把肉
+
+手把肉又叫手抓肉，顾名思义就是用手抓着吃的肉。这种饮食的原料以牛羊肉为主，就是把按着骨骼大小大卸八块之后放进冷水锅里煮，纯草原的煮法是只放点盐和葱，其他调料一概不放，以保证肉质的原生态。而且煮手把肉的柴火也很讲究，煤气要比电好，木柴要比煤气好，而牛粪火是煮手把肉最佳的柴火。现代人生活节奏快，时间都比较紧，所以很多城里人都选择用高压锅来煮，而且还加了花椒大料鲜姜陈皮酱油等一大堆佐料，这样做出来的手把肉少了原生态不说，味道也是大打折扣了。
+
+吃手把肉的方法也比较讲究，一般是左手持肉，右手拿刀，刀刃向内，从外向内轧肉。据民俗学者说，这样的方法体现了蒙古族人对别人的尊敬，刀刃向里，宁可伤到自己也不能伤到别人。一般情况下，羊的胸部和后腿部位的速记雅思这两块肉要敬献给尊贵的客人或长辈；羊的前肩胛骨部有一块类似扇形板子的骨头，蒙语叫做大冷雅思，这一块手把肉是要大家共同分吃的，应该是由主人用刀子给每个人分一块。吃肉的时候一般应该肥瘦搭配，特别像羊肋骨，它们外表一层都是肥肉，靠近骨骼的才是瘦的，所以一般吃这块肉的时候不能一层层吃，而应该把刀子由表皮向骨骼纵向垂直切，这样切出来的肉块白红相间，肥瘦搭配，吃着才鲜嫩可口，不肥不腻。如果自己单独吃一块肉，一定要把骨头上的肉吃干净，否则会被人讥笑为狗都不如。不过这对于不常吃手把肉、不会用刀子的认真还有点难，特别是脊椎骨头，结构复杂，古风和柔纵横交错的掺杂在一起，没有三两年吃手把肉、使刀子的经历是绝对收拾不干净的，所以奉劝这样的朋友最好别单独享用一块骨头或者尽量别选难啃的骨头。有些主人很讲究，会把煮好的肥羊尾一片一片的切下来分别敬献给客人，一般情况下客人都要入乡随俗，要十分友好地接受这份敬意，把这片肥羊尾全部吃掉，要是确实觉得有些肥腻，可以蘸点蒜蓉辣酱，主人会对此举示以宽容一笑，无伤大雅的。
+
+如今，锡林郭勒草原的两大品牌乌珠穆沁羊、苏尼特羊已经驰名中外，不但走出本埠，也已经漂洋过海，成为阿拉伯国家的最爱。人们戏说，这些羊吃的是中草药，喝的是矿泉水，拉的是六味地黄丸，当然他们的肉质是无可比拟的了。当然要想吃到正宗地道的手把肉，最好深入到草原腹地，深入到牧民家中，这样才不会吃到育肥的或者外地冒充的羊肉。
+
+蒙古族饮食文化是有肉必有酒，有酒必有歌舞相伴。吃了手把肉，平时你有半斤的酒量，这时喝上八两草原老酒也不会醉，不信你可以亲自一试啊。
+
+三、涮羊肉
+
+涮羊肉这种美食在中国不说是家喻户晓、尽人皆知，也可以说是红遍多半个中国了。这种吃法是选品质上乘的羊肉切成薄片，放进正在沸腾的开水锅里涮，时间不可太久，否则肉片就被煮的梗硬难吃了。吃之前，在自己的碗里要把蘸料调好，一般是以芝麻酱为主，再辅以葱花、蒜泥、香菜、姜末、酱豆腐、韭菜花、酱油、香油、辣椒油、陈醋、精盐、味精等小料，依照自己喜好的口味调拌。据说这种美食是忽必烈发明的。当年元世祖忽必烈统帅大军南下远征。一日，人困马乏，饥肠辘辘，他猛想起家乡的菜肴--清炖羊肉，于是吩咐部下杀羊烧火。正当伙夫宰羊割肉时，探马飞奔进帐，报告敌军逼近。饥饿难忍的忽必烈一心等着吃羊肉，他一面下令部队开拔一面飞刀切下十多片薄肉，放在沸水里搅拌几下，待肉色一变，马上捞入碗中，撒下少许细盐，连吃几碗然后翻身上马率军迎敌，结果旗开得胜。于是忽必烈就给这种吃法命名为涮羊肉，后来有些地区把这种吃法又叫羊肉火锅。现在，随着时代的变迁，涮羊肉又增添了新的元素，譬如麻辣火锅、鸳鸯火锅、药膳火锅等，并且涮的内容也由单一的羊肉发展到涮肥牛、涮鸡肉，以及豆腐、粉条、酸菜、白菜、油菜、海带、木耳、腐竹、土豆、红薯等等大概所有可以吃的蔬菜都可以涮着吃，这样吃法更有利于健康，减少单独涮肉产生三高的可能性。
+
+记得2011年去云南旅游时，宣传单上打印着旅行社赠送鲜菇火锅，我们这些以肉食为主的草原人这些天早被素食素菜刮清了肠子，于是就盼望痛痛快快吃一顿羊肉火锅，以解思肉之馋，谁料想坐到餐桌前才知道，那火锅是鲜菇打底，涮的内容全是蔬菜，我们大家期盼了好久的肉食居然一片也没有。失望之余，我的同伴唤来老板，问之，有羊肉没？我们自己掏腰包。被告知，没有。又问，有牛肉没，又被告知，有。大家又转为窃喜，上！可是那牛肉一上来我就觉得颜色不对劲，难到云南的牛肉是粉红色？怕人讥笑自己孤陋寡闻，便不敢多问，待肉煮熟，放到嘴里，那股怪异的腥味差点让我呕吐，于是再也没敢下箸，只好就着老酒，吞了一碗米饭作罢。
+
+四、查干伊德
+
+查干伊德翻译成汉语就是白色的食物，还包含有纯净、圣洁之意。它是指以鲜牛奶为原料加工而成的各种奶制品，这些奶食品味道鲜美、营养丰富、种类繁多，是蒙古族生活中不可或缺的食品。
+
+胡乳达，这是蒙语称呼，汉语名称叫奶豆腐。是蒙古族牧民家中常见的奶食品。用牛奶、羊奶、马奶等经凝固、发酵而成的食物，形状类似普通豆腐，味道有的微酸，有的微甜，乳香浓郁，牧民很爱吃，常泡在奶茶中食用，或出远门当干粮，既解渴又充饥。还可以做成拔丝奶豆腐，是宴席上的一道风味名菜。
+
+乌如莫，汉语叫奶嚼口或奶油，是把鲜奶在常温下储存一天之后在表皮形成的一层粘稠性物质，它香醇可口，营养价值丰富，属于牛奶的精华。乌日莫拌炒米是蒙古人名扬四海的美食，如果再加一点白糖，那一定是味道鲜美，口感香甜，令你爱不释手了。
+
+奶皮子，是将鲜奶在锅里多次煮沸后在上面凝固而成的油状物质，取出后放在阴凉通风处晾干后食用。一般是喝茶时掰一小块放在茶碗里，使茶更加醇香可口，是蒙古族待客的佳品。
+
+查干伊德是我们草原人民招待亲朋好友和远方贵宾最珍贵的食物，表达了我们蒙古族人民真挚美好的情义。
+
+当然，草原美食远不止这些，我这里仅就典型的几种做以简单介绍，要想真正体验草原美食以及其中所包含的文化，最好来草原实地品尝奥。记住，要想品尝这些美食，请来内蒙古锡林郭勒草原。</mutableString>
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <constraints>
+                        <constraint firstItem="ePT-zo-no3" firstAttribute="centerX" secondItem="LdU-nL-7gL" secondAttribute="centerX" id="3Yu-mH-VDn"/>
+                        <constraint firstItem="ePT-zo-no3" firstAttribute="leading" secondItem="LdU-nL-7gL" secondAttribute="leading" constant="20" id="5Sn-Y5-W4j"/>
+                        <constraint firstItem="ePT-zo-no3" firstAttribute="top" secondItem="LdU-nL-7gL" secondAttribute="top" constant="20" id="AV2-ao-6Z3"/>
+                        <constraint firstAttribute="bottom" secondItem="ePT-zo-no3" secondAttribute="bottom" id="Xck-LN-rBE"/>
+                        <constraint firstAttribute="trailing" secondItem="ePT-zo-no3" secondAttribute="trailing" constant="20" id="hBf-AR-wFd"/>
+                    </constraints>
+                </scrollView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="LdU-nL-7gL" secondAttribute="bottom" id="3dT-oP-oHx"/>
+                <constraint firstItem="LdU-nL-7gL" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="jcX-WS-elU"/>
+                <constraint firstItem="LdU-nL-7gL" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="oVH-hx-kzq"/>
+                <constraint firstAttribute="trailing" secondItem="LdU-nL-7gL" secondAttribute="trailing" id="pr3-94-dfE"/>
+            </constraints>
+        </view>
+    </objects>
+</document>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9531" systemVersion="15D21" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="OneViewController">
+            <connections>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ygK-K4-my4">
+                    <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                    <subviews>
+                        <view contentMode="scaleToFill" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="2bF-Jh-ZMA">
+                            <rect key="frame" x="0.0" y="0.0" width="600" height="1252"/>
+                            <subviews>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="美食禁忌搭配" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qEZ-8R-7Bs">
+                                    <rect key="frame" x="20" y="20" width="560" height="21"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="MeiShi.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="i23-dd-NkE">
+                                    <rect key="frame" x="0.0" y="61" width="600" height="150"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="150" id="sCd-d3-VKJ"/>
+                                    </constraints>
+                                </imageView>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SzY-gG-e1u">
+                                    <rect key="frame" x="20" y="231" width="560" height="3388"/>
+                                    <mutableString key="text">糯米（1）不宜食用冷自来水所煮的饭 （2）不宜常吃剩油炒饭 高梁 （1）不宜常吃加热后放置的高粱米饭或煮剩的高梁米饭（2）不宜加碱煮食黄豆（1）不宜多食炒熟的黄豆（2）对黄豆过敏者不宜食用（3）服用四环素类药物时不宜食用（4）服用红霉素、灭滴灵、甲氰咪胍时不宜食用（5）服用左旋多巴时不宜食用（6）不宜煮食时加碱（7）食用时不宜加热时间过长（8）服用铁制剂时不宜食用（9）服氨茶碱等茶碱类药时不宜食用（10）不宜与猪血、蕨菜同食（11）不宜多食豆浆（1）饮用时加热时间不宜过短（2）不易和鸡蛋同时煮食（3）豆浆不易加红糖饮用（4）暖水瓶装豆浆不宜饮用（5）喝豆浆时不宜食红薯或橘子（6）不宜多饮绿豆（1）服温热药物时不宜食用（2）服用四环素类药物时不宜食用（3）服甲氰咪胍、灭滴灵、红霉素时不宜食用（4）服用铁制时不宜食用（5）煮食时不宜加碱（6）老人、病后体虚者不宜食用（7）不宜与狗肉、榧子同食。红豆（1）忌与米同煮，食之发口疮（2）不宜与羊肉同食（3）蛇咬伤，忌食百日（4）多尿者忌用.油类猪脂（1）服降压药及降血脂药时不宜食用（2）不宜用大火煎熬后食用（3）不宜久贮后食用（4）不宜食用反复煎炸食物的猪油菜籽油（1）菜籽油经高温处理后贮存（2）带有蛤喇的菜籽油不应食用肉类猪肉（1）不宜食用未摘除甲状腺的猪肉（2）服降压药和降血脂药时不宜多食（3）禁忌食用猪油渣（4）小儿不宜多食（5）不宜在刚屠后煮食（6）未剔除肾上腺和病变的淋巴结时不宜食用（7）老人不宜多食瘦肉（8）食用前不宜用热水浸泡（9）在烧煮过程中忌加冷水（10）不宜多食煎炸咸肉（11）不宜多食加硝腌制之猪肉（12）不宜多食食午餐肉（13）不宜多食肥肉（14）忌与鹌鹑同食,同食令人面黑（15）忌与鸽肉、鲫鱼、虾同食,同食令人滞气（16）忌与荞麦同食,同食令人落毛发（17）忌与菱角、黄豆、蕨菜、桔梗、乌梅、百合、巴豆、大黄、黄连、苍术、芜荽同食（18）忌与牛肉、驴肉（易致腹泻）、羊肝同食。（19）服磺胺类药物时不宜多食猪肝 （1）忌与荞麦、黄豆、豆腐同食,同食发痼疾 （2）忌与鱼肉同食,否则令人伤神（3）忌与雀肉、山鸡、鹌鹑肉同食猪血 （1）忌黄豆,同食令人气滞（2）忌地黄、何首乌 羊肉（1）不宜多食烤羊肉串（2）不宜食用反复剩热或冻藏加温的羊肉（3）有内热者不宜应多食（4）服用泻下药峻泻后不宜食用（5）不宜食用未摘降除甲状腺的羊肉（6）不宜与乳酪同食（7）不宜与豆酱、醋同食（8）不宜与荞麦同食（9）服用中药半夏、菖蒲时禁忌食用（10）烧焦了的羊不应食用（11）未完全烧熟或未炒熟后不宜食用（12）不宜用不适当的烹制方法烹制食用羊肝 （1）忌与生椒、梅、赤豆、苦笋、猪肉同食（2）不宜与富含维生素C的蔬菜同食狗肉（1）小儿禁忌多食（2）不宜食用甲状腺未摘除的狗肉（3）食大蒜及服商陆、杏仁时禁忌食用（4）不宜食用剩热或冷藏加工之品（5）不宜与鲤鱼同时食用（6）不宜与大蒜同时食用（7）食后不宜饮茶 牛肉（1）不宜食用反复剩热或冷藏加温的牛肉食品（2）内热盛者禁忌食用（3）不宜食用熏、烤、腌制之品（4）不宜用不适当烹制方法烹制食用（5）不宜食用未摘除甲状腺的牛肉（6）不宜使用炒其它肉食后未清洗的炒菜锅炒食牛肉（7）与猪肉、白酒、韭菜、薤（小蒜）、生姜同食易致牙龈炎症（8）与栗子不宜同食（9）不宜与牛膝、仙茅同用（10）服氨茶碱时禁忌食用牛肝 （1）忌鲍鱼、鲇鱼（2）不宜与富含维生素C的食物同食鸡肉（1）食时不应饮汤弃肉（2）禁忌食用多龄鸡头（3）禁忌食用鸡臀尖（4）不宜与兔肉同时食用（5）不宜与鲤鱼同时食用（6）不宜与大蒜同时食用（7）服用左旋多巴时不宜食用（8）服用铁制剂时不宜食用鸭肉 （1）反木耳、胡桃 （2）不宜与鳖肉同食，同食令人阴盛阳虚，水肿泄泻驴肉（1）忌荆芥（2）不宜与猪肉同食，否则易致腹泻马肉（1）不宜与大米（粳米）、猪肉同食（2）忌生姜、苍耳鹅肉 不宜与鸭梨同吃。 鹿肉 不宜与雉鸡、鱼虾、蒲白同食 雀肉（1）春夏不宜食，冬三月为食雀季节（2）不宜与猪肝、牛肉、羊肉同食（3）忌李子、白术野鸭忌与木耳、核桃、荞麦同食鹧鸪肉忌与竹笋同食水獭肉忌与兔肉、柿子同吃獐肉不宜与虾、生菜、梅子、李子同食鹌鹑肉 不宜与猪肉、猪肝、蘑菇、木耳同食。 雉鸡 （野鸡） 不宜与猪肝、鲇鱼、鲫鱼、木耳、胡桃、荞麦同食 猫肉 忌藜芦； 猫肉有伤胎之弊，孕妇忌服 水产类 凡海味均禁甘草鲤鱼（1）脊上两筋及黑血不可食用（2）服用中药天门冬时不宜食用（3）不宜久食久反复剩热或反复冻藏加温之品（4）不宜食用烧焦提鱼肉（5）不宜与狗肉同时食用（6）不宜与小豆藿同时食用（7）不宜与赤小豆同时食用（8）不宜与咸菜同时食用（9）不宜与麦冬、紫苏、龙骨、朱砂同时食用带鱼</mutableString>
+                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                            </subviews>
+                            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <constraints>
+                                <constraint firstAttribute="bottom" secondItem="SzY-gG-e1u" secondAttribute="bottom" id="91P-P6-9Ca"/>
+                                <constraint firstItem="qEZ-8R-7Bs" firstAttribute="top" secondItem="2bF-Jh-ZMA" secondAttribute="top" constant="20" id="9IF-cf-eiB"/>
+                                <constraint firstAttribute="trailing" secondItem="i23-dd-NkE" secondAttribute="trailing" id="Bum-7V-Mtk"/>
+                                <constraint firstAttribute="trailing" secondItem="SzY-gG-e1u" secondAttribute="trailing" constant="20" id="I4N-kD-7H4"/>
+                                <constraint firstAttribute="trailing" secondItem="qEZ-8R-7Bs" secondAttribute="trailing" constant="20" id="OpC-hO-bDn"/>
+                                <constraint firstItem="SzY-gG-e1u" firstAttribute="leading" secondItem="2bF-Jh-ZMA" secondAttribute="leading" constant="20" id="P9S-nG-lJD"/>
+                                <constraint firstItem="i23-dd-NkE" firstAttribute="top" secondItem="qEZ-8R-7Bs" secondAttribute="bottom" constant="20" id="UrZ-3C-ahn"/>
+                                <constraint firstItem="i23-dd-NkE" firstAttribute="leading" secondItem="2bF-Jh-ZMA" secondAttribute="leading" id="XjQ-ye-Vt1"/>
+                                <constraint firstItem="SzY-gG-e1u" firstAttribute="top" secondItem="i23-dd-NkE" secondAttribute="bottom" constant="20" id="aU0-zI-tKQ"/>
+                                <constraint firstItem="qEZ-8R-7Bs" firstAttribute="leading" secondItem="2bF-Jh-ZMA" secondAttribute="leading" constant="20" id="q9G-ZP-oPz"/>
+                            </constraints>
+                        </view>
+                    </subviews>
+                    <constraints>
+                        <constraint firstAttribute="bottom" secondItem="2bF-Jh-ZMA" secondAttribute="bottom" id="OdH-Jc-9ZN"/>
+                        <constraint firstItem="2bF-Jh-ZMA" firstAttribute="leading" secondItem="ygK-K4-my4" secondAttribute="leading" id="TZ9-9P-DdW"/>
+                        <constraint firstAttribute="trailing" secondItem="2bF-Jh-ZMA" secondAttribute="trailing" id="WkK-Cc-YhD"/>
+                        <constraint firstItem="2bF-Jh-ZMA" firstAttribute="top" secondItem="ygK-K4-my4" secondAttribute="top" id="u1W-Qb-7aP"/>
+                        <constraint firstItem="2bF-Jh-ZMA" firstAttribute="centerX" secondItem="ygK-K4-my4" secondAttribute="centerX" id="vf7-Ke-WNU"/>
+                    </constraints>
+                </scrollView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="ygK-K4-my4" secondAttribute="bottom" id="5vu-DC-Wlv"/>
+                <constraint firstItem="ygK-K4-my4" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="P2K-DX-8tV"/>
+                <constraint firstItem="ygK-K4-my4" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="vPT-R9-G2e"/>
+                <constraint firstAttribute="trailing" secondItem="ygK-K4-my4" secondAttribute="trailing" id="yBP-hA-sKS"/>
+            </constraints>
+            <point key="canvasLocation" x="349" y="358"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="MeiShi.jpg" width="1024" height="819"/>
+    </resources>
+</document>
